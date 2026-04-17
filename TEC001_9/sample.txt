@@ -1,0 +1,6 @@
+apple 
+orange
+grape
+peach
+egg
+meat
